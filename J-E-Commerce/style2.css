@@ -1,0 +1,29 @@
+.banner_black .row h2 {
+    color: #fff;
+    text-align: center;
+    font-family: "Poppins", serif;
+    font-size: 38px;
+    margin-bottom: 30px;
+}
+
+.banner_black .row p {
+    text-align: justify;
+    color: #a0a0a0;
+}
+
+.banner_black .row h3 {
+    color: #fff;
+    font-family: "Poppins", serif;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.top-banner h2{
+font-size: 38px;
+font-family: fonix;
+}
+
+@media only screen and {(min-width: 36opx) and (max-width:768px)
+ 
+    
+}
